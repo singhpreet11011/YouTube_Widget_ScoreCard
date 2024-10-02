@@ -1,8 +1,8 @@
 # YouTube Scorecard Widget Project
 
-This project is a football scorecard widget designed to provide real-time match updates by YouTube. The widget is easily embeddable on external websites using an iframe. The backend is built using Flask and connects to a MySQL database that stores information about teams, matches, and score updates.
+This project is a football scorecard widget designed to provide real-time match updates by YouTube. The widget is easily embeddable on external websites using an iframe. The backend is built using Flask and connects to a MySQL database that stores information about teams, matches and score updates.
 
-## Database Design
+## Database Design (ER Diagram uploaded in GitHup Repo)
 
 ### New Entities
 The following entities were created to support football match tracking and real-time score updates:
@@ -132,4 +132,6 @@ Users can easily embed the scorecard widget into their websites using an iframe.
 4. **Paste the Code**: Embed the updated iFrame code directly into your website's HTML to display the widget.
 You can copy and paste this into your README file. Let me know if you need any further 
 
+## FrontEnd Preview 
+Frontend Preview PNG file Uploaded in GitHub Repo.
 
