@@ -133,5 +133,5 @@ Users can easily embed the scorecard widget into their websites using an iframe.
 You can copy and paste this into your README file. Let me know if you need any further 
 
 ## FrontEnd Preview 
-Frontend Preview PNG file Uploaded on the GitHub.
+Frontend Preview PNG file Uploaded on the GitHub Folder.
 
